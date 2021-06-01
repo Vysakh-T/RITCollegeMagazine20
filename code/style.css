@@ -33,7 +33,7 @@ p {
 .header {
     position: relative;
     text-align: center;
-    background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%), url('red bg.jpg');
+    background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%), url('../assets/red bg.jpg');
     background-blend-mode: soft-light;
     background-size: cover;
     color: white;
